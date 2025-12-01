@@ -13,7 +13,7 @@ Gateway: http://localhost:8000
 
 Frontend: cd frontend && npm install && npm run dev (http://localhost:5173)
 
-## Start (ff you don't have Docker)
+## Start (if you don't have Docker)
 
 1. Install Python 3.10+ i Node.js 18+
 2. In every single service (gateway/, user_service/, product_service/, order_service/):
