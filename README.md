@@ -5,7 +5,7 @@ Backend: Flask microservices (products, orders, users) + API Gateway
 
 Broker: Redis
 
-Middleware: request logger sa X-Request-ID
+Middleware: request logger with X-Request-ID
 ## Start (Docker is required to be installed)
 docker compose up --build
 
